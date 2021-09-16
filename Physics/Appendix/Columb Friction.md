@@ -27,7 +27,7 @@ $$\theta = tan^{-1} \mu$$
 
 Los extremos del cono, son vectores que representan todas las fuerzas de friccion.
 Esto, si se trata de un sistema de 2 dimensiones es sencillo, ya que se trata de 2 vectores o 2 fuerzas, pero cuando se trata de espacios de 3 Dimensions, lo normal es aproximar el cono (de lados infintesimos) como un plohedro piramidal, de vectores finitos.
-Estos vectores se pueden llamar wrenches
+Estos vectores se pueden llamar wrenches, y se usan para aproximar el area.
 ![[2-Figure1-1.png]]
 
 Refenrecias:

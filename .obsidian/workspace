@@ -7,8 +7,11 @@
         "id": "2a2c96dcf886313f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Solvers/Non-Linear Gauss Seidel.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -49,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 218
   },
   "right": {
     "id": "71bcba256210bff1",
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Solvers/Non-Linear Gauss Seidel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +87,14 @@
     "collapsed": true
   },
   "active": "2a2c96dcf886313f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Solvers/Non-Linear Gauss Seidel.md",
+    "Solvers/What are they.md",
+    "Physics/Appendix/Columb Friction.md",
+    "Solvers/Metodo de Newton.md",
+    "README.md",
+    "Solvers/Untitled.md",
+    "Physics/Friction.md",
+    "Physics/Latex.md"
+  ]
 }
