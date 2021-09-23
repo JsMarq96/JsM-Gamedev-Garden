@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Solvers/Non-Linear Gauss Seidel.md",
-            "mode": "preview"
+            "file": "Solvers/Non-Linear Gauss Seidel aka Gauss-Seidel proyectado.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solvers/Non-Linear Gauss Seidel.md",
+                "file": "Solvers/Non-Linear Gauss Seidel aka Gauss-Seidel proyectado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,15 @@
   },
   "active": "2a2c96dcf886313f",
   "lastOpenFiles": [
-    "Solvers/Non-Linear Gauss Seidel.md",
-    "Solvers/What are they.md",
+    "Solvers/Non-Linear Gauss Seidel aka Gauss-Seidel proyectado.md",
+    "Solvers/Gauss Seidel.md",
+    "Solvers/Intro.md",
+    "Physics/Constraints (Limitaciones).md",
     "Physics/Appendix/Columb Friction.md",
-    "Solvers/Metodo de Newton.md",
-    "README.md",
+    "Appendix/Problemas Complementarios.md",
+    "Appendix/Multiplicador de Lagrange.md",
     "Solvers/Untitled.md",
-    "Physics/Friction.md",
-    "Physics/Latex.md"
+    "Solvers/Metodo de Newton.md",
+    "Physics/Intro.md"
   ]
 }

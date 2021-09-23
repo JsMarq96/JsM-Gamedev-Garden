@@ -13,6 +13,6 @@ En los motores de fisica salvan bastante el culo
 - Iterativos: Generan soluciones en N iteraciones, hasta que se le deje o converja. Ya que son de tiempo flexible, y las soluciuoens son suficnetemente buenas, son prefereidos para aplicaicones en timepo real.
 
 ### Algoritmos
-- Gauss Seidel
-- [[Non-linear Gauss Seidel]]
+- [[Gauss Seidel]]
+- [[Non-Linear Gauss Seidel aka Gauss-Seidel proyectado]]
 - [[Metodo de Newton]]
