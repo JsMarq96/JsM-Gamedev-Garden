@@ -12,7 +12,7 @@ $$JV + b = 0$$
 
 Siendo $J_{vx}$ la jacobiana de la velocidad y b el termino de baumngarte
 
-### Como se resuelve?
+### Como se resuelve las constraints de velocidad (Impulsos secuenciales)?
 $$M(V_2 - V_1) = L\lambda$$
 Siendo V2 la nueva velocidad y V1 es la vieja (?) y M la [[Matriz de Masa]]
 
@@ -29,3 +29,8 @@ El divisor es llamado masa efectiva y lambda se trata como un [[Multiplicador de
 
 ### Resolver varias constraints de una iteracion
 Se pueden amontonar las J como un vector de matrices, al iugal que el metodo de baumgarte
+
+
+### Como se resuelve las constraints usando Solvers genericos?
+Para ello se deveran primero calcular el sistema lineal, la matriz b; y el vector de maximo y minimos, si se trata de Gauss Seidel proyectado.
+Usando el calculo lagrangiano sepodria calcular los maximos y minimos para la proyeccion
