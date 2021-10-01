@@ -19,3 +19,4 @@ $$ 2) x_i ^ {k+1} = Max(Min(tx_i^{k+1}, minimun_i), maximun_i) $$
 
 ### Referencia
 https://gist.github.com/erwincoumans/6666160
+https://box2d.org/files/ErinCatto_IterativeDynamics_GDC2005.pdf

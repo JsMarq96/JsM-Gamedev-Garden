@@ -1,8 +1,8 @@
 ### Que es?
-UNa funcion escalar que representa una limitacion en un sistema fisico.
+Una funcion escalar que representa una limitacion en un sistema fisico.
 Cuando la funcion da 0, es que la constraint esta siendo cumplida.
 
-Existen 2 tipos de constraints:
+Existen varios tipos de constraints:
 - Veolcidad
 - Posicion
 
@@ -27,8 +27,12 @@ $$\lambda = \frac{J V_1 + b} {(J M^{-1} J^t)}$$
 
 El divisor es llamado masa efectiva y lambda se trata como un [[Multiplicador de Lagrange]]
 
+### Aplicar el resultado
+Se puede aplicar a modo de un impulso, un cambio de valocidad, en el que $\lambda$ es la magnitud de la velocidad, y se usa una normal para marcar la direccion y un punto de en el cual aplicarlo, para modificar tambien la velocidad rotacional
+
 ### Resolver varias constraints de una iteracion
-Se pueden amontonar las J como un vector de matrices, al iugal que el metodo de baumgarte
+Se pueden amontonar las J, al iugal que el metodo de baumgarte, siguiendo esta manera:
+$$J = [ J_1 J_2]$$
 
 
 ### Como se resuelve las constraints usando Solvers genericos?
