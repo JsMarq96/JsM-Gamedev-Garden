@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Solvers/Non-Linear Gauss Seidel aka Gauss-Seidel proyectado.md",
+            "file": "Physics/Collision resolution with constraints.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solvers/Non-Linear Gauss Seidel aka Gauss-Seidel proyectado.md",
+                "file": "Physics/Collision resolution with constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "2a2c96dcf886313f",
   "lastOpenFiles": [
-    "Solvers/Non-Linear Gauss Seidel aka Gauss-Seidel proyectado.md",
     "Physics/Collision resolution with constraints.md",
+    "Physics/Matriz de Masa.md",
+    "Physics/Constraint mass.md",
+    "Solvers/Non-Linear Gauss Seidel aka Gauss-Seidel proyectado.md",
     "Appendix/Multiplicador de Lagrange.md",
     "Physics/Constraints (Limitaciones).md",
     "Physics/Constraints de contacto.md",
     "Solvers/Gauss Seidel.md",
     "Physics/Untitled.md",
-    "Physics/Constraint mass.md",
-    "Untitled.md",
-    "Physics/Friction.md"
+    "Untitled.md"
   ]
 }

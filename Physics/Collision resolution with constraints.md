@@ -35,10 +35,16 @@ Una vez tengamos esto tal cual, podemos calcular el resultado a lo largo de vari
 
 ### Que necesito?
 - Calcular matrices de 12x6 y 12x12
-- Multiplicar estoas 2 matrices
-- Trasponer una de estas matrices
+- Multiplicar estoas 2 matrices. Done (to test)
+- Trasponer una de estas matrices. Done
+- Calcular Matriz de Masa
+	- 6 rows por cada cuerpo de contraint,
+	- Matriz cuadrada
+	- Nosotros: 12 x 12
 - Gauss-Seidel
-- Valores de la proyeccion: (Paper de Erin Catto Ecuacion 14) 
+- Una constraint por cada pto de contact
+	- Una matriz por cada objeto...? o por cada pto de contacto
+- Valores de la proyeccion: (Paper de Erin Catto Ecuacion 14) (Done!) 
 	- Dependen del tipo de constraint:
 		- Inecualidad $[0, \infty]$ Constraint de Contacto normal!!
 		- Ecualidad $[-\infty, \infty]$
