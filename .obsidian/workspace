@@ -4,24 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "2a2c96dcf886313f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Physics/Collision resolution with constraints.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "d9e4ade1007f40eb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Solvers/Gauss Seidel.md",
-            "mode": "preview"
+            "file": "WebGPU/0 - Referencias.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -79,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Collision resolution with constraints.md",
+                "file": "WebGPU/0 - Referencias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2a2c96dcf886313f",
+  "active": "f6c2f55937717695",
   "lastOpenFiles": [
-    "Physics/Collision resolution with constraints.md",
-    "Physics/Matriz de Masa.md",
-    "Physics/Constraint mass.md",
-    "Solvers/Non-Linear Gauss Seidel aka Gauss-Seidel proyectado.md",
-    "Appendix/Multiplicador de Lagrange.md",
-    "Physics/Constraints (Limitaciones).md",
-    "Physics/Constraints de contacto.md",
-    "Solvers/Gauss Seidel.md",
-    "Physics/Untitled.md",
-    "Untitled.md"
+    "WebGPU/2 - Runtime.md",
+    "WebGPU/1 - Overview.md",
+    "WebGPU/4 - Rendering.md",
+    "WebGPU/3 - Compute.md",
+    "WebGPU/0 - Referencias.md",
+    "Physics/Solving & Presolving.md",
+    "Raytracing in a weekend/Ray creation.md",
+    "Meshes/Formats/GLTF 2.0.md",
+    "Meshes/Formats/OBJ (Wavefrom).md",
+    "Appendix/Problemas Complementarios.md"
   ]
 }
