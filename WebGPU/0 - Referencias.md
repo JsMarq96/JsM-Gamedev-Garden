@@ -14,7 +14,14 @@ https://github.com/emscripten-core/emscripten/blob/main/system/include/webgpu/we
 ## basic Examples
 https://github.com/kainino0x/webgpu-cross-platform-demo/blob/main/main.cpp
 https://github.com/cwoffenden/hello-webgpu/tree/main/src
-
+https://github.com/samdauwe/webgpu-native-examples/tree/master/src/webgpu
 
 
 https://alain.xyz/blog/raw-webgpu
+
+
+## WebGPU Chromium C++ implementation
+Util para ver estructuras e inspeccionar error
+https://source.chromium.org/chromium/chromium/src/+/main:out/mac-Debug/gen/third_party/dawn/emscripten-bits/webgpu.h
+
+
