@@ -16,6 +16,9 @@ https://github.com/kainino0x/webgpu-cross-platform-demo/blob/main/main.cpp
 https://github.com/cwoffenden/hello-webgpu/tree/main/src
 https://github.com/samdauwe/webgpu-native-examples/tree/master/src/webgpu
 
+## Dawn Examples with GLFW
+https://github.com/boberfly/dawn/blob/master/examples/CHelloTriangle.cpp
+https://github.com/boberfly/dawn/blob/master/examples/SampleUtils.cpp
 
 https://alain.xyz/blog/raw-webgpu
 
